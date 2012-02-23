@@ -1,4 +1,12 @@
 
+Demo
+----
+
+http://fooo.fr/~vjeux/github/soulver.js/soulver.html
+
+Open Source
+----------
+
 I used a few open source softwares in order to make Soulver.js:
 
 * [CodeMirror](http://codemirror.net/): Text editor
